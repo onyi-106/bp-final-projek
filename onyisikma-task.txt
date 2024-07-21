@@ -1,0 +1,3 @@
+1|beli susu|false
+2|beli bayem|false
+1|beli galon|false
